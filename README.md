@@ -37,24 +37,10 @@ Once the above has been done and verified, configure an Authentication Tree as f
 5. From the components pallete select the MobileIron node and configure it this manner: ![ScreenShot](./config/2.png)
 6. From the components pallete select the Success node and configure it this manner: ![ScreenShot](./config/3.png)
 7. For the case where the MDM returns a 'non-compliant' status, it is up to you to decide if you want to perform an additional step-up challenge, display a message, redirect, account lockout, etc.
-8. Click on the MobileIron node and enter your account-specific values for:
-	9. msClientID
-	10. MobileIron Client Secret
-	11. Token Endpoint
-	12. Admin Username
-	13. Admin Password
-
-
-
-
-
-
-
-
-
-
-
-
+8. Click on the MobileIron node and enter your account-specific values for
+- MobileIron Endpoint
+- Admin Username
+- Admin Password
 
 
 
