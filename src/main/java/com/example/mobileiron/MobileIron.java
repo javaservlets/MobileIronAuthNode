@@ -32,7 +32,7 @@ public class MobileIron implements Node {
         String search_key = context_json.get("device_id").asString();
 
         UserInfo userinfo = new UserInfo();
-        String status = userinfo.getStatus(config.miComplianceUrl(), config.miAdmin(), config.miPassword(), search_key); // qry could be for either "is" ENROLLED or COMPLIANT
+        String status = userinfo.getStatus(config.miComplianceUrl(), config.miAdmin(), config.miPassword(), search_key); 
         Action action = null ;
 
         debug.error("+++   action.process  " + status.toString());
