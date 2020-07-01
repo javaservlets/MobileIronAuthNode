@@ -1,16 +1,13 @@
-## MobileIron and ForgeRock: Mutual TLS configuration:
+##ForgeRock: Mutual TLS configuration:
 
 Overview:
 
-1. Create accounts in MobileIron
-2. Configure a Certificate Authority
-3. Configure Keystore on your application server
-4. Quick test that mutual TLS is configured
-5. Setup ForgeRock Open Access Manager oauth
+1. Configure a Certificate Authority
+2. Configure Keystore on your application server
+3. Quick test that mutual TLS is configured
+4. Setup ForgeRock Open Access Manager oauth
 
-### MobileIron
 
-Follow the steps in the MobileIron Cloud at <https://www.mobileiron.com/en/mobile-security-products/mobileiron-cloud/getting-started> to walk you through the required registration.
 
 ### Certificate Authority
 
