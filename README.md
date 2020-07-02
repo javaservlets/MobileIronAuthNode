@@ -22,7 +22,7 @@ Only in event #3 is returned does the authentication tree carry on; if #2 is ret
 
 ### Configuration: MobileIron
 
-The details for configuring MobileIron are [here](https://docs.google.com/document/d/1EpJ-QuX_SGKfwWoDa8JN5KoriW21nhKTpyY8s4EYTYU/edit).
+The details for configuring MobileIron are [here](https://marketplace.mobileiron.com/servlet/servlet.FileDownload?file=00P2T00001N4HCvUAN).
 
 ### Configuration: mTLS
 
